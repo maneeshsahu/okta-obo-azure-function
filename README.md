@@ -13,7 +13,8 @@ The diagram below describes the inline hook interaction:
 
 # Setup
 
-## Deploy the Azure Function to AWS:
+## Deploy the Azure Function to Azure:
+[Follow instructions](https://docs.microsoft.com/en-us/azure/azure-functions/deployment-zip-push) to deploy the Azure Function. 
 
 
 |Variable|Value|
