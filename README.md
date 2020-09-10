@@ -9,7 +9,7 @@ When an API "A" requires a token to access API "B" (under the On-behalf-of flow)
 
 The diagram below describes the inline hook interaction:
 
-![alt text](images/InlineHook_OBO_Flow.png)
+![alt text](InlineHook_OBO_Flow.png)
 
 # Setup
 
